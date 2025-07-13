@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm from Nepal<br><br>- 🔭 I’m working as a Student of BSc. (Hons.) Computing<br>- 🌱 I'm currently learning Backend Engineering, Modern Website development projects, ...<br>- 😊 Pronouns: He/Him<br>- 💌Love, curiosity to explore new things <br>- ⚡ Fun Fact: **Solving the bug created by Myself..**</p>
+<p align="left">I'm from Nepal<br><br>- 🔭 I’m working as a Student of BSc. (Hons.) Computing<br>- 🌱 I'm currently learning Backend Engineering, Modern Website development projects, ...<br>- 😊 Pronouns: He/Him<br>- 💌Love, curiosity to explore new things <br>- ⚡ Fun Fact:Solving the bug created by Myself..</p>
 
 ###
 
