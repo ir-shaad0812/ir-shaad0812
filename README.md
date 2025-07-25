@@ -1,113 +1,118 @@
 <div align="center">
-  <img height="360" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdreXZoNGMwOGZibTc3bWl0ZW8weXZqNmYwb2lrODloZDFpczRjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp"  />
-</div>
+  
+<!-- Dynamic Header with Gradient -->
+<!-- Dynamic Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Md%20Irsad%20Aalam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
 
-###
+<!-- Animated Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Full-Stack+Developer+%7C+Nepal+🇳🇵;Turning+coffee+into+code+since+2020+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
+
+</div>
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const irshad = {
+    pronouns: "He/Him",
+    location: "Rajbiraj, Nepal 🇳🇵",
+    currentFocus: "Full-Stack Development & Mobile Apps",
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+
+    askMeAbout: [
+        "Web Development", "React/React Native", 
+        "Node.js", "JavaScript", "MongoDB", "MySQL"
+    ],
+
+    currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"],
+
+    lifePhilosophy: "Code is poetry written in logic 🎨"
+};
+🛠️ Tech Arsenal
+🎨 Frontend Development
+
+
+
+
+
+
+
+
+⚙️ Backend Development
+
+
+
+
+
+
+🗄️ Database & Cloud
+
+
+
+
+🔧 Tools & Others
+
+
+
+
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohammad-irshad-aalam-a106a9365/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/irshad.rayn.2025" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/raynirshad/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
+📊 GitHub Analytics
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=aneer-thapa1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="400"/> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneer-thapa1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="400"/> </td> </tr> </table> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneer-thapa1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="500"/> </div>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812&left_color=aqua&right_color=royalblue"  />
+📈 Contribution Journey
+
+
 </div>
-
-###
-
-<h1 align="center">Mohammad Irshad Aalam 👨🏻‍💻</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Nepal<br><br>- 🔭 I’m working as a Student of BSc. (Hons.) Computing<br>- 🌱 I'm currently learning Backend Engineering, Modern Website development projects, ...<br>- 😊 Pronouns: He/Him<br>- 💌Love, curiosity to explore new things <br>- ⚡ Fun Fact: Solving the bug created by Myself..</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ir-shaad0812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=aneer-thapa1&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/> </div>
+💻 What I'm Up To
+yaml
+Copy
+Edit
+current_projects:
+  - name: "Portfolio Website v2"
+    status: "In Progress"
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"]
 
-###
+  - name: "Mobile Food Delivery App"
+    status: "Planning"
+    tech: ["React Native", "Node.js", "MongoDB"]
 
+learning_goals_2025:
+  - Advanced TypeScript patterns
+  - System Design principles
+  - Cloud deployment strategies
+  - Mobile app optimization
+
+daily_routine:
+  - "☕ Coffee first, code second"
+  - "🎵 Music while coding"
+  - "📚 Continuous learning"
+  - "🤝 Community contribution"
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ir-shaad0812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ir-shaad0812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+🤝 Let's Connect & Collaborate!
+<p> <img src="https://komarev.com/ghpvc/?username=ir-shaad0812&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/aneer-thapa1?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1a1a" alt="Followers"/> </p>
+💬 Open for:
 
-###
+🚀 Exciting project collaborations
+
+💡 Innovative startup ideas
+
+🎯 Freelance opportunities
+
+🤖 Open source contributions
+
+☕ Virtual coffee chats about tech
+
+📫 Best ways to reach me:
+
+💼 Professional: LinkedIn
+
+📧 Direct: irshad.aalam0812@gmail.com
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=16&fontColor=fff&animation=fadeIn&desc=Thanks%20for%20visiting!%20⭐%20Star%20some%20repos%20if%20you%20like%20my%20work!&descAlignY=70&descSize=14"/>
+⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+</div> ```
