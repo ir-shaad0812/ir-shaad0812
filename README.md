@@ -35,7 +35,8 @@ const irshad = {
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812&left_color=aqua&right_color=royalblue" alt="Visitor Count Badge" />
+  <img src="![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812)
+ alt="Visitor Count Badge" />
 </div>
 
 <h3 align="left">🔥 My Stats:</h3>
