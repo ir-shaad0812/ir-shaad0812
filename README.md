@@ -35,16 +35,16 @@ const irshad = {
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=irsad-aalam.irsad-aalam&left_color=aqua&right_color=royalblue" alt="Visitor Count Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812&left_color=aqua&right_color=royalblue" alt="Visitor Count Badge" />
 </div>
 
 <h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=irsad-aalam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com?user=ir-shaad0812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irsad-aalam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irsad-aalam&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Language Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ir-shaad0812&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&order=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ir-shaad0812&layout=compact&theme=dracula&hide_border=false&langs_count=5&order=2" height="150" alt="Top Languages" />
 </div>
