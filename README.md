@@ -14,19 +14,45 @@
 
 ```javascript
 const irshad = {
-    pronouns: "He/Him",
+    😊 Pronouns: "He/Him",
     location: "Rajbiraj, Nepal 🇳🇵",
-    currentFocus: "Full-Stack Development & Mobile Apps",
-    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    currentFocus: "Full-Stack Development ",
+    💌Love, curiosity to explore new things,
+    FunFact: "I debug with console.log and I'm not ashamed! 😄",
+    ⚡ Fun Fact:Solving the bug created by Myself..</p>
 
     askMeAbout: [
-        "Web Development", "React/React Native", 
+        "Web Development", "React", 
         "Node.js", "JavaScript", "MongoDB", "MySQL"
     ],
 
-    currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"],
-
+    🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
+     currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
     lifePhilosophy: "Code is poetry written in logic 🎨"
+
 };
 
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812&left_color=aqua&right_color=royalblue"  />
+</div>
+
+
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ir-shaad0812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ir-shaad0812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ir-shaad0812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
