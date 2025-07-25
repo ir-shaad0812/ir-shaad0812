@@ -34,10 +34,12 @@ const irshad = {
 ```
 ---
 
-<div align="center">
-  <img src="![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812)
- alt="Visitor Count Badge" />
-</div>
+//<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812&left_color=aqua&right_color=royalblue" alt="Visitor Count Badge" />
+</div>//
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YourGitHubUsername.YourGitHubRepo)
+
 
 <h3 align="left">🔥 My Stats:</h3>
 
