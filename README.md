@@ -31,13 +31,14 @@ const irshad = {
     lifePhilosophy: "Code is poetry written in logic 🎨"
 
 };
-
+```
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=irsad-aalam.irsad-aalam&left_color=aqua&right_color=royalblue" alt="Visitor Count Badge" />
 </div>
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=irsad-aalam&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Graph" />
@@ -45,5 +46,5 @@ const irshad = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irsad-aalam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irsad-aalam&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irsad-aalam&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Language Stats" />
 </div>
