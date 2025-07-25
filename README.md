@@ -28,3 +28,71 @@ const irshad = {
 
     lifePhilosophy: "Code is poetry written in logic 🎨"
 };
+
+
+//Added
+### 🧰 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,postman,tailwind&theme=light" alt="Tech Stack Icons"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irsad-aalam&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irsad-aalam&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irsad-aalam&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📂 Projects I'm Building
+```yaml
+current_projects:
+  - name: "Portfolio Website v2"
+    status: "In Progress"
+    tech: ["Next.js", "TypeScript", "Tailwind CSS"]
+
+  - name: "Mobile Food Delivery App"
+    status: "Planning"
+    tech: ["React Native", "Node.js", "MongoDB"]
+⚡ "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ What This Includes & How to Customize
+
+#### • Visitor Count
+- Uses Komarev’s profile-view counter:  
+  `https://komarev.com/ghpvc/?username=irsad-aalam`
+
+#### • GitHub Trophy
+- Display rank-based GitHub trophies:  
+  `https://github-profile-trophy.vercel.app/?username=irsad-aalam&theme=tokyonight&no-bg=true&no-frame=true`  
+:contentReference[oaicite:2]{index=2}
+
+#### • GitHub Stats & Top Languages
+- General user stats:  
+  `https://github-readme-stats.vercel.app/api?username=irsad-aalam&show_icons=true&theme=tokyonight`  
+- Top languages:  
+  `https://github-readme-stats.vercel.app/api/top-langs?username=irsad-aalam&layout=compact&theme=tokyonight`  
+:contentReference[oaicite:3]{index=3}
+
+#### • Contribution Streak
+- Shows current & longest streak:  
+  `https://github-readme-streak-stats.herokuapp.com/?user=irsad-aalam&theme=tokyonight`  
+:contentReference[oaicite:4]{index=4}
+
+#### • Tech Stack Icons
+- Uses **skillicons.dev** for clean tech icons: supports popular tools/languages like React, Node, MongoDB etc.  
+```markdown
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,
