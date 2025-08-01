@@ -9,10 +9,10 @@
 
 </div>
 ---
-<div> <h1>  
+<!-- <div> <h1>  
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-</h1> </div>
+</h1> </div> -->
 
 ## 🧑‍💻 About Me
 
@@ -23,7 +23,7 @@ const irshad = {
     currentFocus: "Full-Stack Development ",
     💌Love, curiosity to explore new things,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
-    ⚡ Fun Fact:Solving the bug created by Myself..</p>
+   ⚡ Fun Fact:Solving the bug created by Myself..</p>
 
     askMeAbout: [
         "Web Development", "React", 
@@ -32,10 +32,14 @@ const irshad = {
 
     🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
      currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
-    lifePhilosophy: "Code is poetry written in logic 🎨"
+    lifePhilosophy: "Code is poetry written in logic 🎨",
+   "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 };
 ```
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+ 
 ---
 
 <div align="center">
