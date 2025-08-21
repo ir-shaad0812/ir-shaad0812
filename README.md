@@ -25,6 +25,11 @@ const irshad = {
     💌Love, curiosity to explore new things,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
    ⚡ Fun Fact:Solving the bug created by Myself..</p>
++ 🌟 I believe in clean code and pixel-perfect designs
++ 🔍 Always exploring new technologies and frameworks
++ 🍃 Code better 
++ 🏔️ Proudly representing Nepal in the global tech community
++ 💪 Turning coffee into code since day one
 
     askMeAbout: [
         "Web Development", "React", 
