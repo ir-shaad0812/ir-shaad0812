@@ -39,7 +39,7 @@ const irshad = {
     🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
      currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
     lifePhilosophy: "Code is poetry written in logic 🎨",
-   "Code is like humor. When you have to explain it, it’s bad." – Cory House
+   "Code is like humor. When you have to explain it, it’s bad." – Cory Housee
 
 };
 ```
