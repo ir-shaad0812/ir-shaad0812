@@ -27,8 +27,8 @@ const irshad = {
    ⚡ Fun Fact:Solving the bug created by Myself.. 
     + 🌟 I believe in clean code and pixel-perfect designs
     + 🔍 Always exploring new technologies and frameworks
-    + 🍃 Code better 
-    + 🏔️ Proudly representing Nepal in the global tech community
+    + 🍃 Code better and vibe
+    + 🏔️ Proudly want to represent Nepal in the global tech community
     + 💪 Turning coffee into code since day one
 
     askMeAbout: [
