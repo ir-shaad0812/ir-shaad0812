@@ -49,11 +49,14 @@ const irshad = {
  
 ---
 
+## 📊 Contribution Graph 
+<img align="left" width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=ir-shaad0812&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="ir-shaad0812's Contribution Graph" /> <br clear="left"/>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ir-shaad0812.ir-shaad0812&left_color=aqua&right_color=royalblue" alt="Visitor Count Badge" />
 </div>
 
-<h3 align="left">🔥 My Stats:</h3>
+## 📈🔥 GitHub Stats & 🔍 Used Languages
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ir-shaad0812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Graph" />
