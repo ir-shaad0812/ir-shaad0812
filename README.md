@@ -44,9 +44,10 @@ const irshad = {
 
 };
 ```
-
+```
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 "Desin is not just what it looks like and feels like. Design is how it works." -Steve Jobs
+```
  
 ---
 
