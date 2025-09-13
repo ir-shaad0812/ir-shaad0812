@@ -69,3 +69,5 @@ const irshad = {
   <img src="https://github-readme-stats.vercel.app/api?username=ir-shaad0812&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&order=1" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ir-shaad0812&layout=compact&theme=dracula&hide_border=false&langs_count=5&order=2" height="150" alt="Top Languages" />
 </div>
+
+<img align="center" alt="code" width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
