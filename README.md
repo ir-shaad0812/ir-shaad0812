@@ -48,6 +48,7 @@ const irshad = {
 "Desin is not just what it looks like and feels like. Design is how it works." -Steve Jobs
 "With great power comes great responsibility." — Voltaire
 "The details are not the details. They make the design." — Charles Eames
+"The only way to do great work is to love what you do." — Steve Jobs
 ```
  
 ---
