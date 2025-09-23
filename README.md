@@ -1,3 +1,4 @@
+
 <div align="center">
   
 <!-- Dynamic Header with Gradient -->
@@ -9,12 +10,6 @@
 
 </div>
 ---
-<!-- <div> <h1>  
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-</h1>  
-    </div> 
--->
 
 ## 🧑‍💻 About Me
 
