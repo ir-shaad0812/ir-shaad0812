@@ -43,7 +43,7 @@ const irshad = {
 
 };
 ```
- ## 💌 Similar vein:
+ ## 📜💌 Thoughts, Quotes & Inspiration for Similar vein:
 ```
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 "Good artists copy, great artists steal." — Pablo Picasso
@@ -56,6 +56,7 @@ const irshad = {
 "Perfect is the enemy of good." — Voltaire
 "The expert in anything was once a beginner." — Helen Hayes
 "Stay hungry. Stay foolish." — Steve Jobs
+
 ```
  
 ---
