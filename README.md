@@ -43,12 +43,19 @@ const irshad = {
 
 };
 ```
+ ## 💌 Similar vein:
 ```
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
+"Good artists copy, great artists steal." — Pablo Picasso
 "Desin is not just what it looks like and feels like. Design is how it works." -Steve Jobs
 "With great power comes great responsibility." — Voltaire
+"There are only two hard things in computer science: cache invalidation and naming things." — Phil Karlton
+"Walking on water and developing software from a specification are easy if both are frozen." — Edward V Berard
 "The details are not the details. They make the design." — Charles Eames
 "The only way to do great work is to love what you do." — Steve Jobs
+"Perfect is the enemy of good." — Voltaire
+"The expert in anything was once a beginner." — Helen Hayes
+"Stay hungry. Stay foolish." — Steve Jobs
 ```
  
 ---
