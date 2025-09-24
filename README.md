@@ -20,11 +20,11 @@ const irshad = {
     currentFocus: "Full-Stack Development ",
     💌Love, curiosity to explore new things,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
-   ⚡ Fun Fact:Solving the bug created by Myself.. 
+   ⚡ Fun Fact:Solving the bug created by Myself.., I'm just a person who thinks semicolons are fancy commas ;
     + 🌟 I believe in clean code and pixel-perfect designs
     + 🔍 Always exploring new technologies and frameworks
     + 🍃 Code better and vibe
-    + 🏔️ Proudly want to represent Nepal in the global tech community
+    + 🏔️ Proudly want to represent Nepal in the global tech community 
     + 💪 Turning coffee into code since day one
 
     askMeAbout: [
