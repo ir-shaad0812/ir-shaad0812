@@ -55,6 +55,22 @@ const irshad = {
 ```
  
 ---
+### ✍️ Random Dev Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 💻 Code Cycle
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</div>
+
+---
 
 ## 📊 Contribution Graph 
 <img align="left" width="1024px" src="https://github-readme-activity-graph.vercel.app/graph?username=ir-shaad0812&bg_color=0d0d0d&color=2ec55f&line=2c8f96&point=403d3d&area=true&hide_border=true" alt="ir-shaad0812's Contribution Graph" /> <br clear="left"/>
