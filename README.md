@@ -38,7 +38,7 @@ const irshad = {
 
 };
 ```
- ## 📜💌 Thoughts, Quotes & Inspiration for Similar vein:
+ ## 📜💌 Thoughts, Quotes & Inspiration for Similar veins:
 ```
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 "Good artists copy, great artists steal." — Pablo Picasso
