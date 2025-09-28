@@ -34,7 +34,8 @@ const irshad = {
 
     🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
      currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
-    lifePhilosophy: "Code is poetry written in logic 🎨", "Code is like humor. When you have to explain it, it’s bad." – Cory House
+    lifePhilosophy: "At the intersection of logic and creativity lies true innovation".
+  mindset: "Always curious, always learning"
 
 };
 ```
@@ -55,9 +56,21 @@ const irshad = {
 ```
  
 ---
+
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+---
+
+---
+```
+"At the intersection of logic and creativity lies true innovation."
+$ echo "Building the future, one line of code at a time..."
+Building the future, one line of code at a time...
+$ echo "The magic happens when technology meets human creativity."
+The magic happens when technology meets human creativity.
+
+```
 ---
 
 ### 💻 Code Cycle
@@ -88,6 +101,34 @@ const irshad = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ir-shaad0812&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&order=1" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ir-shaad0812&layout=compact&theme=dracula&hide_border=false&langs_count=5&order=2" height="150" alt="Top Languages" />
+</div>
+
+##
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35" /> Let's Connect!
+ ```bash
+$ ./connect --all
+🌐 Network ready! 📫 Channels open!
+
+```
+<div align="center">
+
+  <a href="mailto:irshad.aalam0812@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
+
+  <a href="mailto:np05cp4s240049@iic.edu.np">
+    <img src="https://img.shields.io/badge/Professional_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Professional Email" />
+  </a>
+
+  <a href="https://github.com/ir-shaad0812">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+---
 </div>
 
 <img align="center" alt="code" width="100" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
