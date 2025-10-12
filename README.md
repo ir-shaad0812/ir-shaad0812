@@ -65,6 +65,7 @@ const irshad = {
 ---
 ```
 "At the intersection of logic and creativity lies true innovation."
+Learning and executing !!!
 $ echo "Building the future, one line of code at a time..."
 Building the future, one line of code at a time...
 $ echo "The magic happens when technology meets human creativity."
