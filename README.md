@@ -18,7 +18,7 @@ const irshad = {
     😊 Pronouns: "He/Him",
     location: "Rajbiraj, Nepal 🇳🇵",
     currentFocus: "Full-Stack Development ",
-    💌Love, curiosity to explore new things,
+    💌 Passionate,Love to research  about learning and exploring new technologies,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
    ⚡ Fun Fact:Solving the bug created by Myself.., I'm just a person who thinks semicolons are fancy commas ;
     + 🌟 I believe in clean code and pixel-perfect designs
@@ -43,7 +43,7 @@ const irshad = {
 ```
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 "Good artists copy, great artists steal." — Pablo Picasso
-"Desin is not just what it looks like and feels like. Design is how it works." -Steve Jobs
+"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
 "With great power comes great responsibility." — Voltaire
 "There are only two hard things in computer science: cache invalidation and naming things." — Phil Karlton
 "Walking on water and developing software from a specification are easy if both are frozen." — Edward V Berard
