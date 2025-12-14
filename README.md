@@ -7,7 +7,6 @@
 
 <!-- Animated Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Full-Stack+Developer+%7C+Nepal+🇳🇵;Turning+coffee+into+code+since+2023+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
-
 </div>
 ---
 
