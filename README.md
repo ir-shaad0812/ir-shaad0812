@@ -93,15 +93,31 @@ The magic happens when technology meets human creativity.
 </div>
 
 ## 📈🔥 GitHub Stats & 🔍 Used Languages
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ir-shaad0812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="Streak Graph" />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ir-shaad0812&theme=dark&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
+
+  <br/>
+
+  <!-- GitHub Stats -->
+
+
+  <br/>
+
+  <!-- Top Languages (SAFE MODE) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ir-shaad0812&layout=compact&theme=dracula&langs_count=5&exclude_repo=ir-shaad0812"
+    height="160"
+    alt="Top Languages"
+  />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ir-shaad0812&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&order=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ir-shaad0812&layout=compact&theme=dracula&hide_border=false&langs_count=5&order=2" height="150" alt="Top Languages" />
-</div>
 
 ##
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="35" /> Let's Connect!
