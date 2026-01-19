@@ -23,7 +23,15 @@ const irshad = {
     + 🍃 Code better and vibe
     + 🏔️ Proudly want to represent Nepal in the global tech community 
     + 💪 Turning coffee into code since day one
+    
+"At the intersection of logic and creativity lies true innovation."
+Learning and executing !!!
+$ echo "Building the future, one line of code at a time..."
+Building the future, one line of code at a time...
+$ echo "The magic happens when technology meets human creativity."
+The magic happens when technology meets human creativity.
 
+```
     askMeAbout: [
         "Web Development", "React", 
         "Node.js", "JavaScript", "MongoDB", "MySQL"
@@ -59,17 +67,6 @@ const irshad = {
 
 ---
 
----
-```
-"At the intersection of logic and creativity lies true innovation."
-Learning and executing !!!
-$ echo "Building the future, one line of code at a time..."
-Building the future, one line of code at a time...
-$ echo "The magic happens when technology meets human creativity."
-The magic happens when technology meets human creativity.
-
-```
----
 
 ### 💻 Code Cycle
 
