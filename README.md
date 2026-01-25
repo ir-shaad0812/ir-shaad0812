@@ -15,7 +15,7 @@ const irshad = {
     😊 Pronouns: "He/Him",
     location: "Rajbiraj, Nepal 🇳🇵",
     currentFocus: "Full-Stack Development ",
-    💌 Passionate,Love to research  about learning and exploring new technologies,
+    💌 Passionate,Love to research  about learning and exploring new technologies and enjoy,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
    ⚡ Fun Fact:Solving the bug created by Myself.., I'm just a person who thinks semicolons are fancy commas ;
     + 🌟 I believe in clean code and pixel-perfect designs
