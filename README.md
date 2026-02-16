@@ -7,7 +7,6 @@
 
 </div>
 
-
 ## 🧑‍💻 About Me
 
 ```javascript
@@ -66,8 +65,6 @@ The magic happens when technology meets human creativity.
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-
 
 ### 💻 Code Cycle
 
