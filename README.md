@@ -24,6 +24,7 @@ const irshad = {
     + 💪 Turning coffee into code since day one
 ---
 "At the intersection of logic and creativity lies true innovation."
+"Sometimes the bug isn’t in the logic — it’s in the setup."
 Learning and executing !!!
 $ echo "Building the future, one line of code at a time..."
 Building the future, one line of code at a time...
