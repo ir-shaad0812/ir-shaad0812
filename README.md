@@ -20,6 +20,7 @@ const irshad = {
     + 🌟 I believe in clean code and pixel-perfect designs
     + 🔍 Always exploring new technologies and frameworks
     + 🍃 Code better and vibe
+    + تَوَكُّل 
     + 🏔️ Proudly want to represent Nepal in the global tech community 
     + 💪 Turning coffee into code since day one
 ---
