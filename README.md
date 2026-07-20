@@ -31,6 +31,11 @@ I specialize in creating **robust, scalable backend systems**, modern web applic
 - 🌨️ Learning and executing !!!
 - 🌍 Dreaming of representing Nepal in the global tech community
 
+  🔹 <b>Curious:</b> Always learning new tech.<br/>
+      🔹 <b>Disciplined:</b> Focused on maintainability.<br/>
+      🔹 <b>Impact-focused:</b> Delivering measurable results.
+
+
 </td>
 
 <td align="center" width="35%">
@@ -81,12 +86,7 @@ The magic happens when technology meets human creativity.
     🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
      currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
     lifePhilosophy: "At the intersection of logic and creativity lies true innovation".
-  mindset:
-    🔹 Curious: Always learning new tech.
-    🔹 Disciplined: Focused on maintainability.
-    🔹 Impact-focused: Delivering measurable results.
-
-"Always curious, always learning"
+  mindset: "Learning and executing !!!"
 
 };
 ```
