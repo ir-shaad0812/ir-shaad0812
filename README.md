@@ -26,6 +26,11 @@ const irshad = {
     + 🏔️ Proudly want to represent Nepal in the global tech community 
     + 💪 Turning coffee into code since day one
 ---
+
+    🔹 Curious: Always learning new tech.
+    🔹 Disciplined: Focused on maintainability.
+    🔹 Impact-focused: Delivering measurable results.
+
 "At the intersection of logic and creativity lies true innovation."
 "Sometimes the bug isn’t in the logic — it’s in the setup."
 Learning and executing !!!
