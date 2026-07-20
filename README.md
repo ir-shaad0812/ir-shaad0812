@@ -6,8 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+👋🏻+I%27m+Mohammad+Irshad+Aalam;Software+Engineer+from+Nepal+🇳🇵;I+💌+building+things+at+the+intersection;of+Design+%26+Technology;Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
 
 </div>
-
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="32"/>
 
 ```javascript
 const irshad = {
