@@ -12,7 +12,7 @@
 ```javascript
 const irshad = {
     😊 Pronouns: "He/Him",
-    location: "Rajbiraj, Nepal 🇳🇵",
+    location: "Nepal 🇳🇵",
     currentFocus: "Full-Stack Development ",
     💌 Passionate,Love to research  about learning and exploring new technologies and enjoy,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
@@ -41,7 +41,9 @@ The magic happens when technology meets human creativity.
     🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
      currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
     lifePhilosophy: "At the intersection of logic and creativity lies true innovation".
-  mindset: "Always curious, always learning"
+  mindset: I’m a seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.
+I specialize in building robust, scalable backend systems and modern architectural patterns.
+"Always curious, always learning"
 
 };
 ```
