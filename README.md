@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohammad%20Irshad%20Aalam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohammad%20Irshaad%20Aalam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+👋🏻+I%27m+Mohammad+Irshad+Aalam;Software+Engineer+from+Nepal+🇳🇵;I+💌+building+things+at+the+intersection;of+Design+%26+Technology;Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
@@ -16,7 +16,7 @@
 
 <td width="65%" valign="top">
 
-Hi, I'm **Mohammad Irshad Aalam** 🇳🇵
+Hi, I'm **Mohammad Ir-shaad Aalam** 🇳🇵
 
  I’m a **Full-Stack Developer** seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.
 I specialize in building robust, scalable backend systems and modern architectural patterns.  who enjoys building modern web applications and continuously learning new technologies.
