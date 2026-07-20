@@ -6,14 +6,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hey+👋🏻+I%27m+Mohammad+Irshad+Aalam;Software+Engineer+from+Nepal+🇳🇵;I+💌+building+things+at+the+intersection;of+Design+%26+Technology;Welcome+to+my+digital+realm!+🚀;Building+the+future%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023+☕;Open+to+collaboration+and+new+opportunities!)](https://git.io/typing-svg)
 
 </div>
-## 🧑‍💻 About Me <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="32"/>
+<h2>
+  🧑‍💻 About Me
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="32" alt="Kyubey"/>
+</h2>
 
 ```javascript
 const irshad = {
     😊 Pronouns: "He/Him",
     location: "Nepal 🇳🇵",
     currentFocus: "Full-Stack Development ",
-    💌 Passionate,Love to research  about learning and exploring new technologies and enjoy,
+    💌 Passionate, Love to research  about learning and exploring new technologies and enjoy,
     FunFact: "I debug with console.log and I'm not ashamed! 😄",
    ⚡ Fun Fact:Solving the bug created by Myself.., I'm just a person who thinks semicolons are fancy commas ;
     + 🌟 I believe in clean code and pixel-perfect designs
@@ -48,6 +51,7 @@ I specialize in building robust, scalable backend systems and modern architectur
 ```
  ## 📜💌 Thoughts, Quotes & Inspiration for Similar veins:
 ```
+"Every day is another opportunity to learn, build, and become a better engineer than yesterday."- Irshaad Rayn
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
 "Good artists copy, great artists steal." — Pablo Picasso
 "Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs
