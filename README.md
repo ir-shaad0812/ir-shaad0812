@@ -10,9 +10,40 @@
   🧑‍💻 About Me
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="32" alt="Kyubey"/>
 </h2>
- I’m a seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.
-I specialize in building robust, scalable backend systems and modern architectural patterns.
 
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+Hi, I'm **Mohammad Irshad Aalam** 🇳🇵
+
+ I’m a **Full-Stack Developer** seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.
+I specialize in building robust, scalable backend systems and modern architectural patterns.  who enjoys building modern web applications and continuously learning new technologies.
+
+I specialize in creating **robust, scalable backend systems**, modern web applications, and writing **clean, maintainable code**.
+
+- 🌱 Currently learning **.NET, Next.js, DevOps & Cloud**
+- 💻 Love building full-stack applications
+- 🚀 Curious: Always learning new tech.
+- ☕ At the intersection of logic and creativity lies true innovation."
+- 🌨️ "Sometimes the bug isn’t in the logic — it’s in the setup."
+- 🌨️ Learning and executing !!!
+- 🌍 Dreaming of representing Nepal in the global tech community
+
+</td>
+
+<td align="center" width="35%">
+
+<img src="./About.jpg" width="260" alt="Mohammad Irshad Aalam"/>
+
+</td>
+
+</tr>
+</table>
+ <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="32" alt="Kyubey"/>
+
+---
 ```javascript
 const irshad = {
     😊 Pronouns: "He/Him",
@@ -141,9 +172,13 @@ $ ./connect --all
     <img src="https://img.shields.io/badge/Personal_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
   </a>
 
-  <a href="mailto:np05cp4s240049@iic.edu.np">
+  <a href="mailto:mohammadrayn0812@gmail.com">
     <img src="https://img.shields.io/badge/Professional_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Professional Email" />
   </a>
+  
+  <a href="https://peerlist.io/irshadaalam0812" target="_blank">
+  <img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
+</a>
 
   <a href="https://github.com/ir-shaad0812">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -152,6 +187,7 @@ $ ./connect --all
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
 
 ---
 </div>
