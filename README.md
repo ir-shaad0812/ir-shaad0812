@@ -10,6 +10,8 @@
   🧑‍💻 About Me
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="32" alt="Kyubey"/>
 </h2>
+ I’m a seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.
+I specialize in building robust, scalable backend systems and modern architectural patterns.
 
 ```javascript
 const irshad = {
@@ -48,8 +50,11 @@ The magic happens when technology meets human creativity.
     🌱 I'm currently learning Backend Engineering, Modern Website development projects,...
      currentlyLearning: ["TypeScript", "Next.js", "DevOps", "Cloud Architecture"], 
     lifePhilosophy: "At the intersection of logic and creativity lies true innovation".
-  mindset: I’m a seasoned developer with years of diverse experience in solo and community projects. My expertise is cultivated through personal endeavors and open-source contributions.
-I specialize in building robust, scalable backend systems and modern architectural patterns.
+  mindset:
+    🔹 Curious: Always learning new tech.
+    🔹 Disciplined: Focused on maintainability.
+    🔹 Impact-focused: Delivering measurable results.
+
 "Always curious, always learning"
 
 };
